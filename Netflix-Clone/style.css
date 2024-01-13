@@ -12,7 +12,7 @@ body{
 .main{
     height: 580px;
     width:fit-content;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('image/background.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/background.jpg');
     background-size: auto;
     background-position: center;
     padding: 20px 120px 40px;
